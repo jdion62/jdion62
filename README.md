@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Dion
-- 👀 I’m interested in Software Development, Robotics, Servers, and most things tech
-- 🌱 I’m currently learning how to properly analyze algorithms, and trying to expand experience with different softwares
+- 👀 I’m interested in Software Development, Robotics, Servers, IT, and most things tech
+- 🌱 I’m currently learning how to manage databases, and trying to expand experience with different softwares
 - 📫 How to reach me best is by email, jdion17@gmail.com
 
 <!---
